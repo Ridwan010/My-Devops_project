@@ -1,3 +1,5 @@
+
+
 # Git & Github 
 ### What is Git ? 🤔
 The simple definition is that it is a version control system. A version control system is a software tool that helps manage and track changes to files and directories in a project over time. It is a crucial tool for devops engineers.
@@ -52,3 +54,19 @@ The format for clonning to a repository locally
 Clonning to the repository created.
 
     git clone https://<PAT>@github.com/Ridwan010/Darey.io.git
+
+### Committing and Pushing changes to a repository 
+Changes made in a github repository can be committed locally and then later pushed into a remote repository on github.
+Create a non empty file in the cloned github repository.
+
+    echo "## This is my first repository as a devops engineer" > Readme.md
+Add Changes made 
+
+    git add .
+
+Commit Changes 
+
+    git commit -m "This is my first commit"
+Push Changes to remote github repository 
+
+    git push
