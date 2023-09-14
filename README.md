@@ -1,2 +1,2 @@
-# git_project
-Documentation of darey.io git project
+# Devops_project
+Documentation of darey.io learning project
