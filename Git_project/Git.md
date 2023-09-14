@@ -73,4 +73,19 @@ Push Changes to remote github repository
 
     
 ### Working with branches
-There are primarily to types of branches on github which are the master and main branch. The main branche is the default bunche on github and 
+There are primarily to types of branches on github which are the master and main branch. The main branche is the default branch on github and often the primary branch on github.
+Listing available branch in your local repository 
+
+    git branch 
+Switching to the master branch
+![git]
+
+    git checkout master
+Switching to the main branch from the master branch
+
+    git checkout main
+Creating a new branch
+
+    git checkout -b darey_io
+The "-b" allows to switch to darey_io branch after it is created.
+
