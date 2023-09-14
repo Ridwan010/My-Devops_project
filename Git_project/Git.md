@@ -25,4 +25,17 @@ Click on the top right corner
 ![github](images/Screenshot_20230914-072043_Chrome.jpg)
 
 Select settings from dropdown
-![github]()
+![github](images/Screenshot_20230914-072541_Chrome.jpg)
+
+Select Developer Settings
+![github](images/Screenshot_20230914-072602_Chrome.jpg)
+
+Select personal access token 
+![github](images/Screenshot_20230914-072614_Chrome.jpg)
+
+Select Token(classic)
+![github](images/Screenshot_20230914-072623_Chrome.jpg)
+
+Click on Generate new token to generate a new one
+![github](images/Screenshot_20230914-072636_Chrome.jpg)
+Your PAT should be stored safely and cannot be shared with anyone. Store somewhere you can only access it once after it is generated.
