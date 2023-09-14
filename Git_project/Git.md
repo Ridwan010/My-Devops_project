@@ -70,3 +70,7 @@ Commit Changes
 Push Changes to remote github repository 
 
     git push
+
+    
+### Working with branches
+There are primarily to types of branches on github which are the master and main branch. The main branche is the default bunche on github and 
