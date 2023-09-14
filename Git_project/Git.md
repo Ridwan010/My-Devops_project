@@ -7,7 +7,7 @@ The simple definition is that it is a version control system. A version control 
 # Implementation of Git & Github
 ### Creating a Github account
 click [here](https://github.com) to create an account 
-### Installing Git in your virtual machine
+### Installing Git in your virtual machine, for example vagrant
 Update apt repositories 
 
        sudo apt update 
