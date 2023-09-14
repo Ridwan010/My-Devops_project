@@ -9,5 +9,7 @@ The simple definition is that it is a version control system. A version control 
 click [here](https://github.com) to create an account 
 ### Installing Git in your virtual machine
       sudo apt update 
+      
       sudo apt install git
+      
       git --version 
