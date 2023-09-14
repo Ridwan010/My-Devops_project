@@ -17,7 +17,7 @@ Install git
       
        sudo apt install git 
 
-![git install](images/git insta.png)
+![git install](images/giinsta.png)
 
 Confirm installation of git by running the below command
 
@@ -59,7 +59,8 @@ Clonning to the repository created.
 
     git clone https://<PAT>@github.com/Ridwan010/Darey.io.git
 
-![git Colne](images/git clone.png)
+![git Colne](images/gitclone.png)
+
 ### Committing and Pushing changes to a repository 
 Changes made in a github repository can be committed locally and then later pushed into a remote repository on github.
 Create a non empty file in the cloned github repository.
