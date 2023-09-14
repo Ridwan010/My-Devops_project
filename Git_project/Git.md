@@ -25,6 +25,8 @@ Click on the top right corner
 ![github](images/Screenshot_20230914-072043_Chrome.jpg)
 
 Select settings from dropdown
+
+
 ![github](images/Screenshot_20230914-072541_Chrome.jpg)
 
 Select Developer Settings
