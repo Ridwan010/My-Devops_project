@@ -17,7 +17,7 @@ Install git
       
        sudo apt install git 
 
-![git install](images/giinsta.png)
+![git install](images/gitinsta.png)
 
 Confirm installation of git by running the below command
 
