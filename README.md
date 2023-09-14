@@ -2,4 +2,4 @@
 Documentation of darey.io learning project
 
 
-### Git Project - Project 1
+***Git Project - Project 1***
