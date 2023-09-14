@@ -8,6 +8,13 @@ The simple definition is that it is a version control system. A version control 
 ### Creating a Github account
 click [here](https://github.com) to create an account 
 ### Installing Git in your virtual machine
+Update apt repositories 
+
        sudo apt update 
+Install git 
       
-        # sudo apt install git   
+       sudo apt install git 
+Confirm installation of git by running the below command
+
+       git --version 
+
