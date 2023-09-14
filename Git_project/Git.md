@@ -41,3 +41,14 @@ Select Token(classic)
 Click on Generate new token to generate a new one
 ![github](images/Screenshot_20230914-072636_Chrome.jpg)
 Your PAT should be stored safely and cannot be shared with anyone. Store somewhere you can only access it once after it is generated.
+### Creating a repository on github 
+![github] ()
+
+### Clonning to the repository
+The format for clonning to a repository locally 
+
+    Git clone <repository url>
+
+Clonning to the repository created.
+
+    git clone https://<PAT>@github.com/Ridwan010/Darey.io.git
