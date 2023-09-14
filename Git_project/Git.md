@@ -21,3 +21,8 @@ Confirm installation of git by running the below command
 ### Creating a personal access token (PAT)
 Personal Access Token is a form of authentication that is used to access a Github account from the command line using Git. It give access to repository locally and server as a more secure way to access a github account by replacing the username and password.
 
+Click on the top right corner
+![github](images/Screenshot_20230914-072043_Chrome.jpg)
+
+Select settings from dropdown
+![github]()
