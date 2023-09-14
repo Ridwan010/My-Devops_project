@@ -16,9 +16,13 @@ Update apt repositories
 Install git 
       
        sudo apt install git 
+
+![git install](images/gitinsta.png)
+
 Confirm installation of git by running the below command
 
        git --version 
+![git version](images/gitversion.png)
 
 ### Creating a personal access token (PAT)
 Personal Access Token is a form of authentication that is used to access a Github account from the command line using Git. It give access to repository locally and server as a more secure way to access a github account by replacing the username and password.
@@ -55,6 +59,7 @@ Clonning to the repository created.
 
     git clone https://<PAT>@github.com/Ridwan010/Darey.io.git
 
+![git Colne](images/gitclone.png)
 ### Committing and Pushing changes to a repository 
 Changes made in a github repository can be committed locally and then later pushed into a remote repository on github.
 Create a non empty file in the cloned github repository.
