@@ -4,4 +4,4 @@ Documentation of darey.io learning project
 
 ***Git Project - Project 1***
 
-***LAMP Stak Implementation - Project 2***
+***LAMP Stak Implementation - Project 3***
