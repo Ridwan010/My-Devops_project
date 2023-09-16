@@ -60,3 +60,11 @@ So far, Apache and Mysql has been installed. The last software of the LAMP stack
 Check for the successful installation of php
 
     php -v
+
+## Configuring Apache Web Server To Serve As A Virtual Host 
+Create a directory for our codes to be hosted at the location "/var/www/html/darey.io", "darey.io" can be named any name. The directory will contain the php codes which apache will serve. The codes are not limited to php codes but also html, css, javascript e.t.c. . Apache web server is smart enough to know this location and serve it with the help of its configuration file.
+
+    sudo mkdir /var/www/html/darey.io
+    darey.io is the directory created which will contain our php code
+
+    
