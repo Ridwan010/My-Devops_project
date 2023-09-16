@@ -9,4 +9,8 @@ The word LAMP refers to a group of open source software installed together which
 
 ##                             Installation of Apache
 
-    #sudo apt update
+    sudo apt update
+
+    sudo apt install apache2
+
+    sudo ufw allow in "Apache"
