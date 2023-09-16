@@ -53,3 +53,10 @@ Log out of mysql
     mysql>exit
 
 ## Installing PHP
+
+So far, Apache and Mysql has been installed. The last software of the LAMP stack which is PHP will be installed in this step
+
+    sudo apt install php libapache2-mod-php php-mysql
+Check for the successful installation of php
+
+    php -v
