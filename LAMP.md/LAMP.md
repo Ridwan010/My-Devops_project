@@ -6,3 +6,7 @@ The word LAMP refers to a group of open source software installed together which
 - An AWS account with an ubuntu EC2 instance
 - Virtual machine using linux
 - [SSH](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04)
+
+##                             Installation of Apache
+
+    #sudo apt update
