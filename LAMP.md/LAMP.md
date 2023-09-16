@@ -40,3 +40,16 @@ apt repositories has been updated in the previous step, mysql should be installe
 
     sudo apt install mysql-server
 Secure mysql installation 
+
+    sudo mysql_secure_installation
+Check if mysql has been successfully installed
+
+    sudo systemctl status mysql
+Log into mysql as the root user
+
+    sudo mysql
+Log out of mysql
+
+    mysql>exit
+
+## Installing PHP
