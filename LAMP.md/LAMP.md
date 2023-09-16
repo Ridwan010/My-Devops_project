@@ -17,3 +17,16 @@ Install apache web server
 Allow firewall for apache
 
     sudo ufw allow in "Apache"
+NOTE: The step above will allow firewall for apache once it is enabled, it is important we allow firewall for ssh. ssh runs on port 22, if firewall is not allowed for ssh running on port 22, connection to the ubuntu instance via ssh will be permanently
+
+    sudo ufw allow 22
+    
+To check if ubuntu instance has been installed successfully
+
+    sudo systemctl status apache2
+
+To access your web server on your browser
+
+    http://ubuntu_instance_public_ip_address
+An Apache default page will displayed. 
+You can check your ubuntu instance ip address from your aws console from the EC2 instance service management or input the command bell
