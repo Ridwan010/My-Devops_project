@@ -29,4 +29,8 @@ To access your web server on your browser
 
     http://ubuntu_instance_public_ip_address
 An Apache default page will displayed. 
-You can check your ubuntu instance ip address from your aws console from the EC2 instance service management or input the command bell
+You can check your ubuntu instance ip address from your aws console from the EC2 instance service management or input the command below
+
+    curl http://icanhazip.com
+
+##                                        Installation of Mysql
