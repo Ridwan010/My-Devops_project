@@ -7,7 +7,7 @@ The word LAMP refers to a group of open source software installed together which
 - Virtual machine using linux
 - [SSH](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04)
 
-##                             Installation of Apache
+## Installation of Apache
 update apt repositories
 
     sudo apt update
@@ -33,4 +33,10 @@ You can check your ubuntu instance ip address from your aws console from the EC2
 
     curl http://icanhazip.com
 
-##                                        Installation of Mysql
+## Installation of Mysql
+
+In the previous step, apache web server was installed successfully. In this step, mysql will be installed as a database to store data for our web application.
+apt repositories has been updated in the previous step, mysql should be installed directly
+
+    sudo apt install mysql-server
+Secure mysql installation 
