@@ -23,9 +23,31 @@ Confirm installation of git by running the below command
 
        git --version 
 ![git version](images/gitversion.png)
+### Creating a repository
+Create a folder or directory in your local environment 
+
+    sudo mkdir darey_io
+initialize the folder into a repository
+
+    git init
+create a readme.md file
+
+    echo "Welcome to darey.io" >> README.md
+ Add changes 
+
+    git add .
+ Save Changes
+
+     git commit -m "This is my first commit"
+ Push Changes to your github account 
+
+     git push
+***Note: After pushing changes to github, a prompt will be brought up asking for your username and password to your github account in order to push changes.***
 
 ### Creating a personal access token (PAT)
 Personal Access Token is a form of authentication that is used to access a Github account from the command line using Git. It give access to repository locally and server as a more secure way to access a github account by replacing the username and password.
+With the help of a PAT, we can eliminate the prompt showing up after pushing saved changes 
+to github. The steps below shows how to create a PAT
 
 Click on the top right corner
 ![github](images/Screenshot_20230914-072043_Chrome.jpg)
