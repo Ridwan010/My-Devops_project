@@ -39,9 +39,18 @@ create a readme.md file
  Save Changes
 
      git commit -m "This is my first commit"
+ Change your working branch to main from master
+
+     #git branch  -M main
+ In order to push changes to the remote repository on github, we need the http link of the remote location.
+
+     #git remote origin -v
+ Add remote origin before pushing changes.
+
+     #git remote add origin https://github.com/Ridwan010/darey_io.git
  Push Changes to your github account 
 
-     git push
+     git push -u origin main
 ***Note: After pushing changes to github, a prompt will be brought up asking for your username and password to your github account in order to push changes.***
 
 ### Creating a personal access token (PAT)
